@@ -43,7 +43,7 @@ A API Principal também utiliza SQLite para persistência dos pedidos.
 
 ### Fluxograma da arquitetura
 
-docs/arquitetura.svg
+![Arquitetura do PetExpress](docs/arquitetura.svg)
 
 ## Componentes
 
