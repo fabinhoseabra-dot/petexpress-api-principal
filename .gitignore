@@ -1,0 +1,23 @@
+# Ambiente virtual Python
+.venv/
+
+# Cache do Python
+__pycache__/
+*.py[cod]
+
+# Cache de testes
+.pytest_cache/
+
+# Arquivos do VS Code
+.vscode/
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Variáveis de ambiente
+.env
+
+# Banco SQLite local
+petexpress.db
+*.db-journal
